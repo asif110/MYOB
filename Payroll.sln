@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll", "Payroll\Payroll.csproj", "{77A12CA9-7CD6-465C-ADED-976B0117ACAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{70818C2C-BD59-4730-8E51-9FC008A13ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{0F73595A-69B2-4488-92C9-0584CC77ACBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A12CA9-7CD6-465C-ADED-976B0117ACAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A12CA9-7CD6-465C-ADED-976B0117ACAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A12CA9-7CD6-465C-ADED-976B0117ACAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A12CA9-7CD6-465C-ADED-976B0117ACAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70818C2C-BD59-4730-8E51-9FC008A13ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70818C2C-BD59-4730-8E51-9FC008A13ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70818C2C-BD59-4730-8E51-9FC008A13ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70818C2C-BD59-4730-8E51-9FC008A13ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F73595A-69B2-4488-92C9-0584CC77ACBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F73595A-69B2-4488-92C9-0584CC77ACBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F73595A-69B2-4488-92C9-0584CC77ACBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F73595A-69B2-4488-92C9-0584CC77ACBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

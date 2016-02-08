@@ -11,3 +11,6 @@ C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Deb
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.exe
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.pdb
+E:\MYOB\MYOB\Payroll\bin\Debug\Payroll.exe.config
+E:\MYOB\MYOB\Payroll\obj\Debug\Payroll.exe
+E:\MYOB\MYOB\Payroll\obj\Debug\Payroll.pdb

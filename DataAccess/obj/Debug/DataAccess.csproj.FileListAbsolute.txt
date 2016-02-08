@@ -1,0 +1,7 @@
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\obj\Debug\DataAccess.pdb
