@@ -5,3 +5,7 @@ C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\bin\
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\DataAccess\obj\Debug\DataAccess.pdb
+E:\MYOB\MYOB\DataAccess\bin\Debug\DataAccess.dll
+E:\MYOB\MYOB\DataAccess\bin\Debug\DataAccess.pdb
+E:\MYOB\MYOB\DataAccess\obj\Debug\DataAccess.dll
+E:\MYOB\MYOB\DataAccess\obj\Debug\DataAccess.pdb

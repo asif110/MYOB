@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using System.Data.SQLite;
 using System.Data.SqlClient;
 
+
+//This is the data access module which provides access to SQlite database
+//Model class within it has functions to get tax rates based on annual salray supplied and also generates payslip
 namespace DataAccess
 {
     public struct TaxRates
@@ -43,7 +46,7 @@ namespace DataAccess
             }
         }
 
-        private TaxRates GetTaxRates(int annualSalary)
+        private TaxRates GetTaxRates(double annualSalary)
         {
             String sqlCommand = "select * from Tax where Lower <= " + annualSalary + " and Upper >= " + annualSalary;
             SQLiteCommand command = new SQLiteCommand(sqlCommand, m_connection);
@@ -65,7 +68,7 @@ namespace DataAccess
             return taxRate;
         }
 
-        public Payslip GeneratePaySlip(int anuualSalaray, int superRate)
+        public Payslip GeneratePaySlip(double anuualSalaray, double superRate)
         {
             TaxRates taxRates = GetTaxRates(anuualSalaray);
             Payslip payslip = new Payslip();

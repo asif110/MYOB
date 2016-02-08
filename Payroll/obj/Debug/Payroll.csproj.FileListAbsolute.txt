@@ -12,5 +12,13 @@ C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Deb
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.exe
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.pdb
 E:\MYOB\MYOB\Payroll\bin\Debug\Payroll.exe.config
+E:\MYOB\MYOB\Payroll\bin\Debug\Payroll.exe
+E:\MYOB\MYOB\Payroll\bin\Debug\Payroll.pdb
+E:\MYOB\MYOB\Payroll\bin\Debug\DataAccess.dll
+E:\MYOB\MYOB\Payroll\bin\Debug\DataAccess.pdb
+E:\MYOB\MYOB\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\MYOB\MYOB\Payroll\obj\Debug\Payroll.Payslip.resources
+E:\MYOB\MYOB\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+E:\MYOB\MYOB\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
 E:\MYOB\MYOB\Payroll\obj\Debug\Payroll.exe
 E:\MYOB\MYOB\Payroll\obj\Debug\Payroll.pdb

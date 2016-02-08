@@ -15,6 +15,7 @@ namespace DataAccess.Tests
             Payslip payslipExpected = new Payslip();
             Payslip payslipActual;
 
+            //Expected data hardcode
             payslipExpected.grossMonthly = 10000;
             payslipExpected.incomeTax = 2696;
             payslipExpected.netMonthly = 7304;

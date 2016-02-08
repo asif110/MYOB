@@ -16,6 +16,8 @@ namespace Payroll
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            //Program holds the responsibility of creating Model
+            //It is passed on as a reference to Payslip(view) class
             DataAccess.Model model = new DataAccess.Model();
             try
             {

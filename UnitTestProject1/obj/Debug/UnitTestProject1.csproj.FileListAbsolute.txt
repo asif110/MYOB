@@ -8,3 +8,14 @@ C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\UnitTestProject
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\Lenovo PC\Documents\Visual Studio 2015\Projects\Payroll\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\MYOB\MYOB\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\MYOB\MYOB\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\MYOB\MYOB\UnitTestProject1\bin\Debug\DataAccess.dll
+E:\MYOB\MYOB\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\MYOB\MYOB\UnitTestProject1\bin\Debug\System.Data.SQLite.dll
+E:\MYOB\MYOB\UnitTestProject1\bin\Debug\DataAccess.pdb
+E:\MYOB\MYOB\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\MYOB\MYOB\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\MYOB\MYOB\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\MYOB\MYOB\UnitTestProject1\bin\Debug\System.Data.SQLite.pdb
+E:\MYOB\MYOB\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config

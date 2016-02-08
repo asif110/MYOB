@@ -1,30 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using DataAccess;
 
 namespace Payroll
 {
+    //This is the view class, it takes user input and provides to model and model returns with the formatted data to display
     public partial class Payslip : Form
     {
         private Model m_Model;
 
+        //reference to Model passed by main application
         public Payslip(ref Model model)
         {
             InitializeComponent();
-            m_Model = model;
-            Initialise();
-            
-        }
-        public void Initialise()
-        {           
-        }
+            m_Model = model;            
+        }        
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -34,8 +24,8 @@ namespace Payroll
                 String[] values = text.Split(',');
                 String fName = values[0];
                 String lName = values[1];
-                int annualSalary = Convert.ToInt32(values[2]);
-                int superRate = int.Parse(values[3].Substring(0, values[3].Length - 1));
+                double annualSalary = Convert.ToDouble(values[2]);
+                double superRate = double.Parse(values[3].Substring(0, values[3].Length - 1));
                 String dates = values[4];
 
                 DataAccess.Payslip payslip = m_Model.GeneratePaySlip(annualSalary, superRate);
